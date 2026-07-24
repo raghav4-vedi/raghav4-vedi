@@ -2,7 +2,7 @@
 
 I'm a computational physicist (PhD, condensed matter). I build and validate numerical simulations of physical systems in Python, and apply machine learning to problems in physics.
 
-- 🔬 Simulations of quantum transport and topological condensed matter systems (using Kwant)
+- 🔬 Simulations of quantum transport, spintronics, topological condensed matter systems (both Hermitian and non-Hermitian) (using Kwant)
 - 🤖 Machine learning applied to real research problems, packaged as reusable tools
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=CGO8meEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/raghav-chaturvedi97/)
 
