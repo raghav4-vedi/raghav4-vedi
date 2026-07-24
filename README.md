@@ -6,7 +6,7 @@ I'm a computational physicist (PhD, condensed matter). I build and validate nume
 - 🤖 Machine learning applied to real research problems, packaged as reusable tools
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=CGO8meEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/raghav-chaturvedi97/)
 
-## Code you can browse here
+## Code you can browse here (Mostly ML applied to varied problems)
 
 Repository and what it is 
 
