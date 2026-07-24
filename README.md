@@ -10,7 +10,7 @@ I'm a computational physicist (PhD, condensed matter). I build and validate nume
 
 Repository and what it is 
 
-1) [**wpd_toolkit**](https://github.com/raghav4-vedi/wpd_toolkit) | ML tool (random forest / XGBoost) that predicts a convergence parameter for a topological invariant, packaged as an installable, tested Python package.
+1) [**wpd_toolkit**](https://github.com/raghav4-vedi/wpd_toolkit) | ML tool that predicts a convergence parameter for a topological invariant, packaged as an installable, tested Python package.
 
 ## Code and Data for Published papers (Zenodo)
 
