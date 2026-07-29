@@ -1,6 +1,6 @@
 # Hi, I'm Dr. Raghav Chaturvedi 👋
 
-I'm a computational physicist (PhD, condensed matter). I build and validate numerical simulations of physical systems in Python, and apply machine learning to problems in physics.
+I'm a computational physicist (PhD, theoretical condensed matter physics). I build and validate numerical simulations of physical systems in Python, and apply machine learning to problems in physics.
 
 - 🔬 Simulations of quantum transport, spintronics, topological condensed matter systems (both Hermitian and non-Hermitian) (using Kwant)
 - 🤖 Machine learning applied to real research problems, packaged as reusable tools
