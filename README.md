@@ -11,7 +11,7 @@ I'm a computational physicist (PhD, condensed matter). I build and validate nume
 Repository and what it is 
 
 1) [**wpd_toolkit**](https://github.com/raghav4-vedi/wpd_toolkit) | ML tool that predicts a convergence parameter for a topological invariant for non-Hermitian chains, packaged as an installable, tested Python package. (Regression and Classification using Random-forest models)
-2) [**waferguard**](https://github.com/raghav4-vedi/waferguard) | Classifies nine semiconductor wafer-map defect patterns by comparing a shallow CNN, a deeper residual CNN, and a hybrid model for a dataset derived from Kaggle. Includes saved models, tests, and a detailed project report.
+2) [**wafer_defect_detection**](https://github.com/raghav4-vedi/wafer_defect_detection) | Classifies nine semiconductor wafer-map defect patterns by comparing a shallow CNN, a deeper residual CNN, and a hybrid model for a dataset derived from Kaggle. Includes saved models, tests, and a detailed project report.
 
 ## Code and Data for Published papers (Zenodo)
 
