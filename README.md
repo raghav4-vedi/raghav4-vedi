@@ -12,6 +12,8 @@ Repository and what it is
 
 1) [**wpd_toolkit**](https://github.com/raghav4-vedi/wpd_toolkit) | ML tool that predicts a convergence parameter for a topological invariant for non-Hermitian chains, packaged as an installable, tested Python package. (Regression and Classification using Random-forest models)
 2) [**wafer_defect_detection**](https://github.com/raghav4-vedi/wafer_defect_detection) | Classifies nine semiconductor wafer-map defect patterns by comparing a shallow CNN, a deeper residual CNN, and a hybrid model for a dataset derived from Kaggle. Includes saved models, tests, and a detailed project report.
+3) [**ML applied to Finance**](https://github.com/raghav4-vedi/ML_Finance) Applies machine learning to three financial problems: forecasting German
+  government bond yields and market losses, predicting S&P 500 volatility, and estimating loan-default probabilities. (Regression, classification)
 
 ## Code and Data for Published papers (Zenodo)
 
