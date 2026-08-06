@@ -15,7 +15,7 @@ Repository and what it is
 3) [**ML_Finance**](https://github.com/raghav4-vedi/ML_Finance) Applies machine learning to two financial problems: forecasting German
   government bond yields and market losses, and estimating loan-default probabilities. (Regression, classification)
 
-## Code and Data for Published papers (Zenodo)
+## Code and Data for Published papers (Physics)
 
 1) https://zenodo.org/records/6985564 : **Non-Hermitian topology in a multi-terminal quantum Hall device**, *Nature Physics* 20, 395–401 (2024). Paper Link (https://www.nature.com/articles/s41567-023-02337-4).
 2) https://zenodo.org/records/12166403: **Non-Hermitian topology of transport in graphene quantum Hall phases**-*Phys. Rev. B* 111, 245424 (2025). Paper Link (https://journals.aps.org/prb/abstract/10.1103/j5n3-dbwr).
