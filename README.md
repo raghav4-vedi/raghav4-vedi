@@ -15,7 +15,7 @@ Repository and what it is
 3) [**ML_Finance**](https://github.com/raghav4-vedi/ML_Finance) Applies machine learning to two financial problems: forecasting German
   government bond yields and market losses, and estimating loan-default probabilities. (Regression, classification)
 
-## Code for my exploration into Quantum Computations (Qiskit)
+## Code for my exploration into Quantum Computing (Qiskit)
 
 
 ## Code and Data for Published papers (Physics)
