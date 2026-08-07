@@ -6,7 +6,7 @@ I'm a data-driven researcher with a PhD in physics (theoretical condensed matter
 - 🤖 Machine learning applied to real research problems, packaged as reusable tools
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=CGO8meEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/raghav-chaturvedi97/)
 
-## Code you can browse here (Mostly ML applied to varied problems)
+## Code for ML applied to varied problems
 
 Repository and what it is 
 
@@ -14,6 +14,9 @@ Repository and what it is
 2) [**wafer_defect_detection**](https://github.com/raghav4-vedi/wafer_defect_detection) | Classifies nine semiconductor wafer-map defect patterns by comparing a shallow CNN, a deeper residual CNN, and a hybrid model for a dataset derived from Kaggle. Includes saved models, tests, and a detailed project report.
 3) [**ML_Finance**](https://github.com/raghav4-vedi/ML_Finance) Applies machine learning to two financial problems: forecasting German
   government bond yields and market losses, and estimating loan-default probabilities. (Regression, classification)
+
+## Code for my exploration into Quantum Computations (Qiskit)
+
 
 ## Code and Data for Published papers (Physics)
 
