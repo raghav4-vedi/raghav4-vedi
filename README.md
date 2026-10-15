@@ -14,6 +14,7 @@ Repository and what it is
 2) [**wafer_defect_detection**](https://github.com/raghav4-vedi/wafer_defect_detection) | Classifies nine semiconductor wafer-map defect patterns by comparing a shallow CNN, a deeper residual CNN, and a hybrid model for a dataset derived from Kaggle. Includes saved models, tests, and a detailed project report.
 3) [**ML_Finance**](https://github.com/raghav4-vedi/ML_Finance) Applies machine learning to two financial problems: forecasting German
   government bond yields and market losses, and estimating loan-default probabilities. (Regression, classification)
+4) [**Image_Segmentation_Rooftops**](https://github.com/raghav4-vedi/House-Roof-Segmentation-from-Satellite-Images): Roof segmentation from satellite images with only 25 labelled examples, using a pretrained U-Net trained in two stages.
 
 ## Code for my exploration into Quantum Computing (Qiskit)
 
