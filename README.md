@@ -4,6 +4,7 @@ I'm a data-driven researcher with a PhD in physics (theoretical condensed matter
 
 - 🔬 Simulations of quantum transport, spintronics, topological condensed matter systems (both Hermitian and non-Hermitian) (using Kwant)
 - 🤖 Machine learning applied to real research problems, packaged as reusable tools
+- 🔬 Simulating Semiconductor device physics using DevSim (TCAD open source software)
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=CGO8meEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/raghav-chaturvedi97/)
 
 ## Code for ML applied to varied problems
@@ -16,7 +17,8 @@ Repository and what it is
   government bond yields and market losses, and estimating loan-default probabilities. (Regression, classification)
 4) [**Image_Segmentation_Rooftops**](https://github.com/raghav4-vedi/House-Roof-Segmentation-from-Satellite-Images): Roof segmentation from satellite images with only 25 labelled examples, using a pretrained U-Net trained in two stages.
 
-## Code for my exploration into Quantum Computing (Qiskit)
+## Code for my exploration into TCAD using DevSim
+ 1) [**TCAD_Journey**](https://github.com/raghav4-vedi/TCAD_Journey) | Here I used DevSim to explore Semiconductor device physics and understand how TCAD works.
 
 
 ## Code and Data for Published papers (Physics)
